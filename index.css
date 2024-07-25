@@ -1,0 +1,63 @@
+
+.bulb-image {
+    height: 300px;
+    width: 300px;
+}
+
+.cat-image {
+    height: 300px;
+    width: 300px;
+}
+
+.dark-background {
+    background-color: black;
+}
+
+.button1 {
+    background-color: red;
+    padding: 4px;
+    color: white;
+    margin: 4px;
+    border-radius: 5px;
+    height: 30px;
+    width: 50px;
+}
+
+.button2 {
+    background-color: green;
+    padding: 4px;
+    color: white;
+    margin: 4px;
+    border-radius: 5px;
+    height: 30px;
+    width: 50px;
+}
+
+.container {
+    background-color: #7b8794;
+    width: 294px;
+    height: 139px;
+    border-radius: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 16px;
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+    font-family: "Lobster";
+    font-weight: 500;
+    font-size: 50px;
+    color: white;
+}
+
+.head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
